@@ -1,5 +1,5 @@
 #the mod name as displayed in-game
-displayName: "Java Mod Template"
+displayName: "Java Mod Adapting-equipment"
 
 #the internal name of your mod
 name: "example-java-mod"
@@ -11,7 +11,7 @@ author: "You"
 main: "example.ExampleJavaMod"
 
 #the mod description as seen in the mod dialog
-description: "A Mindustry Java mod template."
+description: "介绍"
 
 #the mod version
 version: 1.0
